@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AVL.iml" filepath="$PROJECT_DIR$/AVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTCS-AVLTree.iml" filepath="$PROJECT_DIR$/TTCS-AVLTree.iml" />
     </modules>
   </component>
 </project>
